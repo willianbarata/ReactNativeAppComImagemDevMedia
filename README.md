@@ -7,5 +7,5 @@ Básico para incluir imagem em um aplicativo, e estilizar
 #ReactNative
 
 <p align="center">
-  <img width="470" src="Screenshot_2022-08-04-11-15-30.png">
+  <img width="300" height:"900" src="Screenshot_2022-08-04-11-15-30.png">
 </p>
